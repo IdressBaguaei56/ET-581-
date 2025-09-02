@@ -30,9 +30,9 @@ public class HW1 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in); // input tool
         System.out.print("Enter total seconds: ");
-        int total = input.nextInt(); // read number
+        int total = input.nextInt(); // read the number
 
-        // convert to h/m/s
+        // convert to hours to minutes to seconds
         int hours = total / 3600;
         int minutes = (total % 3600) / 60;
         int seconds = total % 60;
