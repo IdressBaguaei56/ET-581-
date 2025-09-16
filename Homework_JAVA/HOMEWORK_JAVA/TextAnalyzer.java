@@ -1,3 +1,4 @@
+package Homework_JAVA.HOMEWORK_JAVA;
 // Idress Baguaei
 import java.util.Scanner;
 import java.util.StringTokenizer;
