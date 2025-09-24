@@ -9,6 +9,6 @@ public class SumOfArrayValues {
             sum = sum + value;
             System.out.println("Index is: " + i + "Values is: " + value + "Current sum is: " + sum);
         }
-        System.out.println("Final result is: " + sum)
+        System.out.println("Final result is: " + sum);
     }
 }
